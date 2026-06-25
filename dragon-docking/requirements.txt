@@ -1,0 +1,2 @@
+numpy==2.3.1
+selenium==4.33.0
